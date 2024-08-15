@@ -3,7 +3,7 @@ services:
   - type: web
     name: PUMA BRO
     runtime: python
-    repo: https://github.com/captmikes/openai-assistant-chainl
+    repo: https://github.com/captmikes/openai-assistant-chainlit
     plan: starter
     envVars:
       - key: OPENAI_API_KEY
