@@ -1,9 +1,9 @@
 # Exported from Render on 2024-05-20T20:56:35Z
 services:
   - type: web
-    name: Chainlit-OpenAI-Assistant
+    name: PUMA BRO
     runtime: python
-    repo: https://github.com/Chainlit/openai-assistant
+    repo: https://github.com/captmikes/openai-assistant-chainl
     plan: starter
     envVars:
       - key: OPENAI_API_KEY
